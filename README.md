@@ -1,5 +1,5 @@
 # Role
-* UART, ADC , LWIP driver
+* UART, ADC, LWIP FW 
   
 # HARDWARE 
 * STM32f429zi
