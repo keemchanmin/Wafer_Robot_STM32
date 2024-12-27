@@ -1,0 +1,3 @@
+../Core/Src/driver/current.c:17:6:CurrentSensor_Init	2
+../Core/Src/driver/current.c:24:6:CurrentSensor_Start	1
+../Core/Src/driver/current.c:28:7:CurrentSensor_GetValue	2

@@ -1,0 +1,2 @@
+../Core/Src/driver/vibration.c:12:6:VibrationSensor_Init	16	static
+../Core/Src/driver/vibration.c:16:10:HandleVibration	80	static

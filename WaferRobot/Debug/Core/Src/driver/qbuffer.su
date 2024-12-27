@@ -1,0 +1,5 @@
+../Core/Src/driver/qbuffer.c:12:6:qbufferCreate	32	static
+../Core/Src/driver/qbuffer.c:24:6:qbufferWrite	40	static
+../Core/Src/driver/qbuffer.c:52:6:qbufferRead	32	static
+../Core/Src/driver/qbuffer.c:78:10:qbufferAvailable	24	static
+../Core/Src/driver/qbuffer.c:86:6:qbufferFlush	16	static

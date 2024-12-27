@@ -1,0 +1,7 @@
+../Core/Src/driver/tcpClientRAW.c:72:6:tcp_client_init	16	static
+../Core/Src/driver/tcpClientRAW.c:85:14:tcp_client_connected	32	static
+../Core/Src/driver/tcpClientRAW.c:133:14:tcp_client_recv	40	static
+../Core/Src/driver/tcpClientRAW.c:231:14:tcp_client_poll	24	static
+../Core/Src/driver/tcpClientRAW.c:269:14:tcp_client_sent	32	static
+../Core/Src/driver/tcpClientRAW.c:299:13:tcp_client_send	32	static
+../Core/Src/driver/tcpClientRAW.c:354:13:tcp_client_connection_close	16	static

@@ -1,0 +1,9 @@
+../Core/Src/driver/uart_driver.c:19:6:uartInit	2
+../Core/Src/driver/uart_driver.c:30:6:uartOpen	7
+../Core/Src/driver/uart_driver.c:103:10:uartAvailable	3
+../Core/Src/driver/uart_driver.c:121:9:uartRead	3
+../Core/Src/driver/uart_driver.c:139:10:uartWrite	5
+../Core/Src/driver/uart_driver.c:167:10:uartPrintf	1
+../Core/Src/driver/uart_driver.c:187:12:uartGetQBuffer	2
+../Core/Src/driver/uart_driver.c:199:6:HAL_UART_ErrorCallback	1
+../Core/Src/driver/uart_driver.c:206:6:HAL_UART_RxCpltCallback	3
